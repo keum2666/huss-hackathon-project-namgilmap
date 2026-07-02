@@ -1,10 +1,12 @@
-# Namgilmap
+ # HUSS Hackathon Project: Namgilmap
 
-  Namgilmap is a prototype web app for recording and sharing digital financial asset information after death.
+  Namgilmap is a HUSS Hackathon project that proposes a digital financial asset will-recording service.
 
-  It is not a legal will replacement. Instead, it helps users record where their digital financial assets and online accounts exist,
-  how they want each asset to be handled, and what information can be shared with designated recipients after official death
-  verification.
+  It is designed to help users record where their digital financial assets and online accounts exist, how they want each asset to be
+  handled after death, and what information can be shared with designated recipients after official death verification.
+
+  This service is not a legal will replacement. It is a prototype for recording and guiding digital financial asset information in a
+  safe and limited way.
 
   ## Key Features
 
@@ -42,5 +44,4 @@
 
   ## Disclaimer
 
-  This project is a prototype for educational and presentation purposes. It does not provide legal, financial, or inheritance execution
-  services.
+  This project is a prototype for the HUSS Hackathon. It does not provide legal, financial, or inheritance execution services.
